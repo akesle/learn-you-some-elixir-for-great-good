@@ -1,2 +1,4 @@
 # learn-you-some-elixir-for-great-good
-Learn You Some Erlang for Great Good example implementations, but in Elixir
+
+##TL;DR
+[Learn You Some Erlang for Great Good](https://learnyousomeerlang.com/content)  example implementations, but in Elixir.
