@@ -11,4 +11,8 @@
 
 #iex tuples.exs
 
-iex lists.exs
+#iex lists.exs
+
+#iex list_comprehensions.exs
+
+iex bit_syntax.exs
