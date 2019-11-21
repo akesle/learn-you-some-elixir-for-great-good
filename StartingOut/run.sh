@@ -15,4 +15,6 @@
 
 #iex list_comprehensions.exs
 
-iex bit_syntax.exs
+#iex bit_syntax.exs
+
+iex binary_comprehensions.exs
