@@ -3,6 +3,13 @@ import IO, only: [puts: 1]
 defmodule Useless do
   @compile [:debug_info, :export_all]
 
+  # Sharing attributes
+  defmacro __using__(_) do
+    quote do
+      @author "An Elixir Champ"
+    end
+  end
+
   @spec add(number, number) :: number
   def add(a, b), do: a + b
 
